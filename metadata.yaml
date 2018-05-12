@@ -1,0 +1,29 @@
+_repo: Itinerary-of-Provence-and-the-RhoneMade-During-the-Year-1819_20891
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hughes, John
+    birthdate: 1790
+    deathdate: 1857
+    gutenberg_agent_id: '25292'
+    url: http://www.gutenberg.org/2009/agents/25292
+description: ''
+gutenberg_issued: '2007-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Provence (France) -- Description and travel'
+- !lcsh 'Rhône River (Switzerland and France)'
+- !lcc 'DC'
+title: 'Itinerary of Provence and the Rhone
+
+  Made During the Year 1819'
+url: http://www.gutenberg.org/ebooks/20891
